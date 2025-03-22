@@ -1,0 +1,7 @@
+Features of This Script
+✅ Checks HTTP Security Headers
+✅ Scans SSL/TLS Configurations
+✅ Performs Open Port Scanning (if nmap is installed)
+✅ Retrieves DNS & WHOIS Information
+✅ Maps Software Versions to CVEs (NIST NVD API)
+✅ Performs WHOIS Lookups
